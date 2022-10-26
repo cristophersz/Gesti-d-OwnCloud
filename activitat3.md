@@ -15,3 +15,21 @@
 ![image](https://user-images.githubusercontent.com/116022089/198059506-02c1ea19-bad9-486a-8048-08ec20df7965.png)
 
 ![image](https://user-images.githubusercontent.com/116022089/198059886-c85ddfc8-dff1-4b98-a84b-eaa0bf58b9f2.png)
+
+4.4.- Podem crear fitxers d'una mida determinada a Linux amb la comanda:
+
+truncate -s 10M file.txt
+
+A l'exemple es crea un fitxer de 10MB.
+
+Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
+
+![image](https://user-images.githubusercontent.com/116022089/198062228-b057ec7a-4a2c-4954-89e9-6723cfb0ecdc.png)
+
+![image](https://user-images.githubusercontent.com/116022089/198063720-db981411-076b-4710-bd7f-aa72939e0733.png)
+
+![image](https://user-images.githubusercontent.com/116022089/198064861-3cf2244a-0710-417e-b289-47abf526cf9a.png)
+
+4.5.- Mostra el missatge d'error per haver superat la quota d'usuari.
+
+![image](https://user-images.githubusercontent.com/116022089/198064639-57a2f306-d33a-4d1b-b741-52e5a4c6df7b.png)
