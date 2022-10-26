@@ -53,3 +53,11 @@ Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 ![image](https://user-images.githubusercontent.com/116022089/198070008-f809afd1-f495-4c06-978b-4fc69ad97dd1.png)
 
 ![image](https://user-images.githubusercontent.com/116022089/198070303-e4467ec0-53a2-401b-a3fa-d4d851c006df.png)
+
+4.10.- Esborra la carpeta Learn more about owncloud.
+
+![image](https://user-images.githubusercontent.com/116022089/198070700-85791d9b-e97a-49bb-a625-f7017ad84190.png)
+
+4.11.- Recupera la carpeta Learn more about owncloud.
+
+![image](https://user-images.githubusercontent.com/116022089/198070850-0f5d2828-73d1-4439-a02e-11ddf7f12ab7.png)
