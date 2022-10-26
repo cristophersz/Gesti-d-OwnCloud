@@ -46,5 +46,5 @@ Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 
 ![image](https://user-images.githubusercontent.com/116022089/198066623-39db1753-c59c-4d2c-89e9-a8b4a09bbd6d.png)
 
-![image](https://user-images.githubusercontent.com/116022089/198066764-b50c3958-ef1a-4d95-8d8d-c54b547d149f.png)
+![image](https://user-images.githubusercontent.com/116022089/198067614-89c5a437-237a-4a7b-85d9-83f657d02c04.png)
 
