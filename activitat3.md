@@ -10,3 +10,8 @@
 
 ![image](https://user-images.githubusercontent.com/116022089/198058955-7b3f8eac-6b29-4b1b-a2e8-e246aa7a2bc1.png)
 
+4.3.- Crea un usuari XYZ on XYZ son les inicials del company/a i afegeix-lo al grup usuaris, aquest usuari tindrà una quota de 512 MB.
+
+![image](https://user-images.githubusercontent.com/116022089/198059506-02c1ea19-bad9-486a-8048-08ec20df7965.png)
+
+![image](https://user-images.githubusercontent.com/116022089/198059886-c85ddfc8-dff1-4b98-a84b-eaa0bf58b9f2.png)
