@@ -48,3 +48,5 @@ Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 
 ![image](https://user-images.githubusercontent.com/116022089/198067614-89c5a437-237a-4a7b-85d9-83f657d02c04.png)
 
+4.9.- Comparteix un fitxer de usuariXYZ a usuari2XYZ i mostra com l'usuari2XYZ pot veure i descarregar el fitxer.
+
