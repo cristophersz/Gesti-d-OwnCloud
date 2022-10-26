@@ -42,3 +42,9 @@ Crea 6 fitxers de 100MB i pujal's a Owncloud un per un.
 
 ![image](https://user-images.githubusercontent.com/116022089/198066154-334e01ff-9346-4d0b-8561-71a622f841be.png)
 
+4.8.- Crea un usuari anomenat usuari2XYZ i fical al grup usuaris.
+
+![image](https://user-images.githubusercontent.com/116022089/198066623-39db1753-c59c-4d2c-89e9-a8b4a09bbd6d.png)
+
+![image](https://user-images.githubusercontent.com/116022089/198066764-b50c3958-ef1a-4d95-8d8d-c54b547d149f.png)
+
