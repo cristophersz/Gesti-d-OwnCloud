@@ -7,3 +7,6 @@
 ![image](https://user-images.githubusercontent.com/116022089/198058288-f173975c-a691-4733-919f-31a475f685f2.png)
 
 4.2.- Inicia sessió com a l'usuari adminXYZ.
+
+![image](https://user-images.githubusercontent.com/116022089/198058955-7b3f8eac-6b29-4b1b-a2e8-e246aa7a2bc1.png)
+
